@@ -30,6 +30,13 @@ int main(){
 
 <br>
 
+## Process
+This program takes 5 steps.<br>
+이 프로그램은 5 스탭으로 진행됩니다.<br>
+<img src="https://github.com/pooi/PainterlyRendering/blob/master/image/001.jpg">
+<img src="https://github.com/pooi/PainterlyRendering/blob/master/image/002.jpg">
+<br>
+
 ## Results
 >Circle Effect
 <img src="https://github.com/pooi/PainterlyRendering/blob/master/PainterlyRendering/PainterlyRendering/source2.jpg">
