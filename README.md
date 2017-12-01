@@ -6,7 +6,7 @@
 >참고 1 : <a href=“https://mrl.nyu.edu/projects/npr/painterly/“>https://mrl.nyu.edu/projects/npr/painterly/</a><br>
 >참고 2 : <a href=“https://mrl.nyu.edu/publications/painterly98/hertzmann-siggraph98.pdf”>https://mrl.nyu.edu/publications/painterly98/hertzmann-siggraph98.pdf</a>
 
-This program is based on the NYU thesis and it is the result of the school assignment.<br>
+This program is based on the NYU paper and it is the result of the school assignment.<br>
 이 프로그램은 NYU 논문을 기초로 하여 작성된 프로그램이며 학교 수업시간에 제출한 과제 결과물입니다.
 
 <br>
